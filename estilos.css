@@ -177,3 +177,20 @@ header video {
   color: white;
   text-align: center;
 }
+
+.tabla-tecnologias {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+            background-color: #fff;
+            font-family: Arial, sans-serif;
+        }
+        .tabla-tecnologias th, 
+        .tabla-tecnologias td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        .tabla-tecnologias th {
+            background-color: #f4f4f4;
+        }
